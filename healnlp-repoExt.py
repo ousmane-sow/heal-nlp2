@@ -47,7 +47,7 @@ nwords = sum(d[word] for word in d )
 print('number of words (without stop words): ', nwords)
 
 # dictionary for repositories
-rname = {'addgene': 0, 'ATCC':0, 'ICPSR': 0, 'pubchem': 0, 'openneuro': 0, 'openfmri': 0, 'dataverse': 0, 'dryad': 0, 'figshare': 0, 'mendeley data': 0, 'vivli': 0, 'zenodo':0, 'dash': 0, 'clinicalTrials': 0, 'xnat': 0}
+rname = {'addgene': 0, 'ATCC':0, 'ICPSR': 0, 'pubchem': 0, 'openneuro': 0, 'openfmri': 0, 'dataverse': 0, 'dryad': 0, 'figshare': 0, 'mendeley data': 0, 'vivli': 0, 'zenodo':0, 'dash': 0, 'clinicalTrials': 0, 'xnat': 0, 'icpsr':0}
 
 # loop for extracting repository names mentioned in txt file, and starting count
 for word in words:
