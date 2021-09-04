@@ -1,0 +1,35 @@
+As noted in our Data Sharing Plan some of the data is proprietary Since we did not receive any feedback on this from NIH when we submitted in Sep 2019  we assumed we do not need to share this part of the data
+Some of the studies we serve cannot share all of the data they will collect  HPI  justice records  Sovereign Nations  data 
+Cannot share data protected by Privacy Laws   clinical trial data on patients
+we need approval from Indigenous research community review board committee
+Proprietary data
+As we are developing new intellectual property approporiate care needs to be taken before information or reagents can be shared
+Each use needs approval from the Cherokee Nation IRB
+per IRB limitations and contractual agreements with Asset owners
+Must be de-identified
+Some external data acquired in BACPAC may not be able to be shared broadly
+De-identified data for this study will be available to the public in the NIDA Data Share repository except for datasets capturing the results of data matching and field notes  qualitative work   per NIDA CTN policy
+We do not own the administrative datasets that we will analyze for our project  We must abide by the data use stipulations that have been set by our partners at the Massachusetts Department of Public Health  We will be able to re-disclose aggregated or summary data  but not individual level data
+
+SBIR Data Rights Compliance with Consent Forms
+Some of the data is proprietary to the company that developed and provides the study medication device
+we work with prisoners our community partners in WA State government have data sharing requirements and limitations
+small business grant>proprietary nature of data
+patient confidentiality
+We will not be able to share     data abstracted in chart review or intervention recordings transcripts
+Precautions to prevent deductive disclosure
+As a SBIR grantee  data is protected from disclosure
+Unpublished data is considered proprietary information by SRI International  There may be use limitations for unpublished data
+Data for this study includes OptumInsight and Medicaid data  As these data are utilized through agreements with the University of Michigan s IHPI  Optum  and DUAs with CMS  Medicaid  we are not allowed to share these data more broadly
+Publication of original findings would be completed first
+BACPAC data sharing committee has establish an application and review process for requesting access to BACPAC datasets
+Have to create account and request access per NCI NCTN NCORP data archive https:  nctn-data-archive nci nih gov
+efforts to reverse engineer patient identities is strictly prohibited
+As stated in our Data Sharing Plan  our datasets include both confidential and proprietary data 
+Data will not be publicly available until after publication  or patent application
+Data included confidential data of sensitive personal information of participants
+HIPAA privacy regulations  University Office of Technology Management approval  Concerns about technical difficulty transferring data into the HEAL data repository
+Our data includes excessive PHI  Protected Health Information  based on patient electronic medical records
+Release prior to peer-reviewed publication
+See attachment
+
